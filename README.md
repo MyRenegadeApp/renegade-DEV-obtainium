@@ -7,7 +7,7 @@ This repo hosts the releases for the renegade app through Obtainium.
 
 ## Install Renegade through Obtainium
 
-1. Copy Repository URL: Copy this repository URL to download the app through Obtainium: https://github.com/MyRenegadeApp/renegade-obtainium
+1. Copy Repository URL: Copy this repository URL to download the app through Obtainium: [https://github.com/MyRenegadeApp/renegade-obtainium](https://github.com/MyRenegadeApp/renegade-DEV-obtainium)
 2. Add in Obtainium: Open Obtainium, go to "Add App", and paste the URL into "App Source URL". Use the default configuration and tap "Add".
 ![Screenshot_20250115-154423.png](assets/Screenshot_20250115-154423.png)
 ![Screenshot_20250115-155003.png](assets/Screenshot_20250115-155003.png)
